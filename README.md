@@ -1,6 +1,6 @@
 # Project Name
 
-> Project description
+> Building the Proxy for the Etsy project
 
 ## Related Projects
 
