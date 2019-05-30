@@ -4,7 +4,7 @@
 
 }
 
-#tjn-app {
+#tjn-root {
   grid-area: cart;
   max-width: 300px;
 }
