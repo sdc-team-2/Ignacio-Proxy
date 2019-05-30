@@ -1,0 +1,30 @@
+#cis-app {
+  grid-area: slider;
+  justify-self: center;
+  overflow: hidden;
+}
+
+#tjn-app {
+  grid-area: cart;
+}
+
+#jjc-app {
+  grid-area: others;
+}
+
+#reviews {
+  grid-area: reviews;
+
+}
+
+#app {
+  display: grid;
+  grid-template-columns: 70% 30%;
+  grid-template-rows: 600px 1000px auto;
+  grid-template-areas:
+   "slider cart"
+   "reviews cart"
+   "others others"
+}
+
+
